@@ -1,0 +1,45 @@
+@media (min-width:768px) {
+    .new-input{
+        width:50%;
+    }
+}
+
+#headline{
+    background-color: darksalmon;
+}
+
+#startbtn{
+    background-color: khaki;
+}
+
+#signup{
+    background-color: darkseagreen;
+}
+
+#mksection{
+    background-color:bisque;
+}
+
+#mktext{
+    color: chocolate;
+}
+
+#snacksection{
+    background-color: rgb(116, 177, 227);
+}
+
+#sntext{
+    color:rgb(246, 240, 235);
+}
+
+#questions{
+    background-color:darkseagreen;
+}
+
+#contacts{
+    background-color: cornsilk;
+}
+
+#lastpage{
+    background-color: honeydew;
+}
